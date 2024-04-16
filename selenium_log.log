@@ -1,0 +1,232 @@
+INFO:root:Visiting: https://www.bbc.com/future
+INFO:root:Visiting: https://www.nationalgeographic.com
+WARNING:root:Timeout reached while loading https://www.ted.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.economist.com
+WARNING:root:Timeout reached while loading https://www.wired.com, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://arstechnica.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.space.com
+WARNING:root:Timeout reached while loading https://www.theverge.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.scientificamerican.com
+INFO:root:Visiting: https://www.nature.com
+WARNING:root:Timeout reached while loading https://www.smithsonianmag.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.livescience.com
+INFO:root:Visiting: https://www.popsci.com
+WARNING:root:Timeout reached while loading https://www.techcrunch.com, proceeding with partially loaded page.
+ERROR:root:Error while processing https://www.techcrunch.com: Message: javascript error: Cannot read properties of null (reading 'scrollHeight')
+  (Session info: chrome=123.0.6312.122)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7ACBD7032+63090]
+	(No symbol) [0x00007FF7ACB42C82]
+	(No symbol) [0x00007FF7AC9DEC65]
+	(No symbol) [0x00007FF7AC9E3D21]
+	(No symbol) [0x00007FF7AC9E6462]
+	(No symbol) [0x00007FF7ACA64062]
+	(No symbol) [0x00007FF7ACA46FDA]
+	(No symbol) [0x00007FF7ACA63412]
+	(No symbol) [0x00007FF7ACA46D83]
+	(No symbol) [0x00007FF7ACA183A8]
+	(No symbol) [0x00007FF7ACA19441]
+	GetHandleVerifier [0x00007FF7ACFD25AD+4238317]
+	GetHandleVerifier [0x00007FF7AD00F70D+4488525]
+	GetHandleVerifier [0x00007FF7AD0079EF+4456495]
+	GetHandleVerifier [0x00007FF7ACCB0576+953270]
+	(No symbol) [0x00007FF7ACB4E54F]
+	(No symbol) [0x00007FF7ACB49224]
+	(No symbol) [0x00007FF7ACB4935B]
+	(No symbol) [0x00007FF7ACB39B94]
+	BaseThreadInitThunk [0x00007FF934AD257D+29]
+	RtlUserThreadStart [0x00007FF9356AAA48+40]
+
+INFO:root:Visiting: https://www.mashable.com
+WARNING:root:Timeout reached while loading https://www.vice.com, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://www.atlasobscura.com, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://www.cnet.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.futurism.com
+INFO:root:Visiting: https://www.sciencedaily.com
+INFO:root:Visiting: https://www.engadget.com
+WARNING:root:Timeout reached while loading https://www.medicalnewstoday.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.cell.com
+INFO:root:Visiting: https://www.psychologytoday.com
+INFO:root:Selenium driver has been closed.
+INFO:root:Visiting: https://www.bbc.com/future
+WARNING:root:Timeout reached while loading https://www.nationalgeographic.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.ted.com
+WARNING:root:Timeout reached while loading https://www.economist.com, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://www.wired.com, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://arstechnica.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.space.com
+WARNING:root:Timeout reached while loading https://www.theverge.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.scientificamerican.com
+INFO:root:Visiting: https://www.nature.com
+WARNING:root:Timeout reached while loading https://www.smithsonianmag.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.livescience.com
+INFO:root:Visiting: https://www.popsci.com
+WARNING:root:Timeout reached while loading https://www.techcrunch.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.mashable.com
+WARNING:root:Timeout reached while loading https://www.vice.com, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://www.cnet.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.futurism.com
+INFO:root:Visiting: https://www.sciencedaily.com
+INFO:root:Visiting: https://www.engadget.com
+WARNING:root:Timeout reached while loading https://www.medicalnewstoday.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.cell.com
+WARNING:root:Timeout reached while loading https://www.psychologytoday.com, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://www.history.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.biography.com
+INFO:root:Visiting: https://www.culturetrip.com
+WARNING:root:Timeout reached while loading https://www.fastcompany.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.theguardian.com/international
+INFO:root:Visiting: https://www.nytimes.com
+WARNING:root:Timeout reached while loading https://www.bloomberg.com, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://www.forbes.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.washingtonpost.com
+INFO:root:Visiting: https://www.npr.org
+INFO:root:Visiting: https://www.cbsnews.com
+INFO:root:Visiting: https://www.nbcnews.com
+INFO:root:Visiting: https://www.cnbc.com
+INFO:root:Visiting: https://www.aljazeera.com
+WARNING:root:Timeout reached while loading https://www.reuters.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.weather.com
+INFO:root:Visiting: https://www.discovery.com
+INFO:root:Visiting: https://www.nationalreview.com
+WARNING:root:Timeout reached while loading https://www.eurekalert.org, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://www.nejm.org, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://www.jamanetwork.com, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://www.lancet.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.sciencemag.org
+INFO:root:Visiting: https://www.plos.org
+WARNING:root:Timeout reached while loading https://www.frontiersin.org, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.cell.com
+INFO:root:Visiting: https://www.nature.com/ng
+INFO:root:Visiting: https://www.sciencedirect.com
+WARNING:root:Timeout reached while loading https://www.britannica.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.pewresearch.org
+INFO:root:Visiting: https://www.statnews.com
+INFO:root:Visiting: https://www.wonderhowto.com
+INFO:root:Visiting: https://www.howstuffworks.com
+WARNING:root:Timeout reached while loading https://www.digitaltrends.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.gizmodo.com
+WARNING:root:Timeout reached while loading https://www.zdnet.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.techradar.com
+INFO:root:Visiting: https://www.pcworld.com
+WARNING:root:Timeout reached while loading https://www.macworld.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.wirecutter.com
+INFO:root:Visiting: https://www.slashgear.com
+WARNING:root:Timeout reached while loading https://www.theatlantic.com, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://www.vox.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.bbc.com/future
+INFO:root:Visiting: https://www.nationalgeographic.com
+INFO:root:Visiting: https://www.ted.com
+INFO:root:Visiting: https://www.economist.com
+WARNING:root:Timeout reached while loading https://www.wired.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://arstechnica.com
+INFO:root:Visiting: https://www.space.com
+INFO:root:Visiting: https://www.theverge.com
+INFO:root:Visiting: https://www.scientificamerican.com
+INFO:root:Visiting: https://www.nature.com
+INFO:root:Visiting: https://www.smithsonianmag.com
+INFO:root:Visiting: https://www.livescience.com
+INFO:root:Visiting: https://www.popsci.com
+WARNING:root:Timeout reached while loading https://www.techcrunch.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.mashable.com
+WARNING:root:Timeout reached while loading https://www.vice.com, proceeding with partially loaded page.
+WARNING:root:Timeout reached while loading https://www.cnet.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.futurism.com
+INFO:root:Visiting: https://www.sciencedaily.com
+INFO:root:Visiting: https://www.engadget.com
+WARNING:root:Timeout reached while loading https://www.medicalnewstoday.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.cell.com
+WARNING:root:Timeout reached while loading https://www.psychologytoday.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.history.com
+INFO:root:Visiting: https://www.biography.com
+INFO:root:Visiting: https://www.culturetrip.com
+INFO:root:Visiting: https://www.fastcompany.com
+INFO:root:Visiting: https://www.theguardian.com/international
+INFO:root:Visiting: https://www.nytimes.com
+INFO:root:Visiting: https://www.bloomberg.com
+INFO:root:Visiting: https://www.forbes.com
+WARNING:root:Timeout reached while loading https://www.washingtonpost.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.npr.org
+INFO:root:Visiting: https://www.cbsnews.com
+WARNING:root:Timeout reached while loading https://www.nbcnews.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.cnbc.com
+INFO:root:Visiting: https://www.aljazeera.com
+INFO:root:Visiting: https://www.reuters.com
+INFO:root:Visiting: https://www.weather.com
+INFO:root:Visiting: https://www.discovery.com
+INFO:root:Visiting: https://www.nationalreview.com
+INFO:root:Visiting: https://www.eurekalert.org
+INFO:root:Visiting: https://www.nejm.org
+INFO:root:Visiting: https://www.jamanetwork.com
+WARNING:root:Timeout reached while loading https://www.lancet.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.sciencemag.org
+INFO:root:Visiting: https://www.plos.org
+WARNING:root:Timeout reached while loading https://www.frontiersin.org, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.cell.com
+INFO:root:Visiting: https://www.nature.com/ng
+INFO:root:Visiting: https://www.sciencedirect.com
+WARNING:root:Timeout reached while loading https://www.britannica.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.pewresearch.org
+INFO:root:Visiting: https://www.statnews.com
+INFO:root:Visiting: https://www.wonderhowto.com
+INFO:root:Visiting: https://www.howstuffworks.com
+WARNING:root:Timeout reached while loading https://www.digitaltrends.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.gizmodo.com
+WARNING:root:Timeout reached while loading https://www.zdnet.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.techradar.com
+INFO:root:Visiting: https://www.pcworld.com
+INFO:root:Visiting: https://www.macworld.com
+INFO:root:Visiting: https://www.wirecutter.com
+INFO:root:Visiting: https://www.slashgear.com
+WARNING:root:Timeout reached while loading https://www.theatlantic.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.vox.com
+INFO:root:Visiting: https://www.bbc.com/future
+INFO:root:Visiting: https://www.nationalgeographic.com
+INFO:root:Visiting: https://www.ted.com
+INFO:root:Visiting: https://www.economist.com
+INFO:root:Visiting: https://www.wired.com
+WARNING:root:Timeout reached while loading https://arstechnica.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.space.com
+INFO:root:Visiting: https://www.theverge.com
+INFO:root:Visiting: https://www.scientificamerican.com
+INFO:root:Visiting: https://www.nature.com
+INFO:root:Visiting: https://www.smithsonianmag.com
+INFO:root:Visiting: https://www.livescience.com
+INFO:root:Visiting: https://www.popsci.com
+WARNING:root:Timeout reached while loading https://www.techcrunch.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.mashable.com
+INFO:root:Visiting: https://www.vice.com
+WARNING:root:Timeout reached while loading https://www.cnet.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.futurism.com
+INFO:root:Visiting: https://www.sciencedaily.com
+INFO:root:Visiting: https://www.engadget.com
+WARNING:root:Timeout reached while loading https://www.medicalnewstoday.com, proceeding with partially loaded page.
+INFO:root:Visiting: https://www.cell.com
+INFO:root:Visiting: https://www.psychologytoday.com
+INFO:root:Visiting: https://www.history.com
+INFO:root:Visiting: https://www.biography.com
+ERROR:root:Error while processing https://www.biography.com: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=123.0.6312.122)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7ACBD7032+63090]
+	(No symbol) [0x00007FF7ACB42C82]
+	(No symbol) [0x00007FF7AC9DEC65]
+	(No symbol) [0x00007FF7AC9BCA7C]
+	(No symbol) [0x00007FF7ACA4D687]
+	(No symbol) [0x00007FF7ACA62AC1]
+	(No symbol) [0x00007FF7ACA46D83]
+	(No symbol) [0x00007FF7ACA183A8]
+	(No symbol) [0x00007FF7ACA19441]
+	GetHandleVerifier [0x00007FF7ACFD25AD+4238317]
+	GetHandleVerifier [0x00007FF7AD00F70D+4488525]
+	GetHandleVerifier [0x00007FF7AD0079EF+4456495]
+	GetHandleVerifier [0x00007FF7ACCB0576+953270]
+	(No symbol) [0x00007FF7ACB4E54F]
+	(No symbol) [0x00007FF7ACB49224]
+	(No symbol) [0x00007FF7ACB4935B]
+	(No symbol) [0x00007FF7ACB39B94]
+	BaseThreadInitThunk [0x00007FF934AD257D+29]
+	RtlUserThreadStart [0x00007FF9356AAA48+40]
+
+INFO:root:Selenium driver has been closed.
