@@ -230,6 +230,7 @@ Stacktrace:
 	RtlUserThreadStart [0x00007FF9356AAA48+40]
 
 INFO:root:Selenium driver has been closed.
+<<<<<<< HEAD
 INFO:root:Visiting: https://www.bbc.com/future
 WARNING:root:Timeout reached while loading https://www.nationalgeographic.com, proceeding with partially loaded page.
 INFO:root:Visiting: https://www.ted.com
@@ -258,3 +259,5 @@ Stacktrace:
 	RtlUserThreadStart [0x00007FF9356AAA48+40]
 
 INFO:root:Selenium driver has been closed.
+=======
+>>>>>>> 1383acafffa3a8718c2749f97755711600f776ec
