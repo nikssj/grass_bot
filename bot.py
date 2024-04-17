@@ -5,6 +5,13 @@ import csv
 from selenium.common.exceptions import WebDriverException
 import random  # Import the random module
 
+import sys
+sys.excepthook = lambda type, value, traceback: print(value)
+
+import logging
+logging.basicConfig(filename='app.log', level=logging.DEBUG, format='%(asctime)s %(levelname)s:%(message)s')
+
+
 csv_file = "pags.csv"
 extension_path = 'grass_extension.crx'  # Path to your .crx file
 
@@ -12,6 +19,7 @@ extension_path = 'grass_extension.crx'  # Path to your .crx file
 chrome_options = Options()
 chrome_options.add_extension(extension_path)  # Add the extension
 chrome_options.add_argument("--disable-features=SameSiteByDefaultCookies")  # Disable SameSite by default cookies
+chrome_options.add_argument("--start-maximized")
 
 # Initialize the browser with the options
 driver = webdriver.Chrome(options=chrome_options)
@@ -33,7 +41,7 @@ try:
             
             # Gradually scroll down to the bottom of the page
             total_height = driver.execute_script("return document.body.scrollHeight")
-            for i in range(0, total_height, 50):  # Increment by 50 pixels
+            for i in range(0, total_height, 20):  # Increment by 50 pixels
                 driver.execute_script(f"window.scrollTo(0, {i});")
             
             # Scroll back up to the top of the page quickly
