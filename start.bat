@@ -10,7 +10,7 @@ if errorlevel 9009 (
 
 :: Install required Python packages
 echo Installing required Python packages...
-pip install selenium
+pip install selenium pyarmor
 
 :: Run the Python script
 echo Running the script...
